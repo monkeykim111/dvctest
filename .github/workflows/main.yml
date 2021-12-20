@@ -1,4 +1,3 @@
-name: CML & DVC TEST
 on: workflow_dispatch
 jobs:
   jobs1:
