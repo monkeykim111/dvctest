@@ -1,3 +1,4 @@
+name: DVC push test
 on: workflow_dispatch
 jobs:
   jobs1:
@@ -22,5 +23,3 @@ jobs:
 #            sudo rm intersection.tar
 #            ls -al
 #            echo Done!!
-            
-            
